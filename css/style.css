@@ -9,3 +9,11 @@ main {
 footer {
     background-color: #d9ead3;
 }
+article {
+    display: flex;
+    gap: 20px;
+}
+
+img {
+    width: 200px;
+}
